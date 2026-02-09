@@ -1,3 +1,9 @@
+img {
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
 html {
   box-sizing: border-box;
 }
